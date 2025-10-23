@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.ipynb_checkpoints
+.env
+venv/
+logs/
+outputs/
+*.pth
+*.pt
+
+# Data
+data/
+UrbanSound8K/
+*.wav
+*.zip
+
+# Colab
+drive/
